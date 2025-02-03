@@ -1,3 +1,5 @@
+# For Adguard Home
+
 ||x.com^
 ||twitter.com^
 ||t.co^
