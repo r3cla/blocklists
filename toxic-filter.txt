@@ -66,7 +66,6 @@
 ||jihadology.net^
 ||ansar1.info^
 ||justpaste.it^
-||archive.org^
 ||rocket.chat^
 ||element.io^
 ||matrix.org^
@@ -78,7 +77,6 @@
 ||hanein.info^
 ||voat.co^
 ||voat.xyz^
-||minds.com^
 ||bitchute.com^
 ||rumble.com^
 ||odysee.com^
