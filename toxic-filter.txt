@@ -1,4 +1,5 @@
 # For Adguard Home
+# This is a personalised list, make sure you check it before using
 
 ||x.com^
 ||twitter.com^
@@ -99,4 +100,8 @@
 ||dlive.org^
 ||dlive.com^
 ||2ch.hk^
-
+||tesla.services^
+||teslamotors.com^
+||tesla.com^
+||tesla.cn^
+||teslaenergy.services^ 
