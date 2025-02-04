@@ -104,4 +104,7 @@
 ||teslamotors.com^
 ||tesla.com^
 ||tesla.cn^
-||teslaenergy.services^ 
+||teslaenergy.services^
+||joinhoney.com^
+||honey.io^
+||honey.app^ 
