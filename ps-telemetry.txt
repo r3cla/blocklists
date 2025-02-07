@@ -1,0 +1,7 @@
+
+||nsx-e.np.dl.playstation.net^
+||mercury.dl.playstation.net^
+||nsx.np.dl.playstation.net^
+||adproxy.ndmdhs.com^
+||telemetry-console.api.playstation.com^
+||telemetry-cii.api.playstation.com^
