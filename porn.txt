@@ -1,4 +1,5 @@
 ! I got sick of NSFW filters all blocking sites like reddit and bluesky. This list is purely porn sites.
+! This list is not regularly updated and will likely have many gaps, for strict NSFW censoring, check out OISD's NSFW blocker instead.
 
 ||*.porn^
 ||*.sex^
