@@ -121,6 +121,36 @@
 ||matrix.org^
 ||justpaste.it^
 
+! Redirect Services 
+||is.gd^
+||tinyurl.com^
+||bit.ly^
+||t.co^
+||surl.li^
+||x.gd^
+||wa.me^
+||lin.ee^
+||shorturl.at^
+||buff.ly^
+
+! Adult TLD's
+||*.porn^
+||*.sex^
+||*.sexy^
+||*.xxx^
+||*.webcam^
+||*.adult^
+||*.tube^
+||*.cam^
+||*.hot^
+
+! Dodgy TLD's
+||*.ml^
+||*.tk^
+||*.ga^
+||*.cf^
+||*.gq^
+
 ! Miscellaneous
 ||edramatica.com^
 ||voat.co^
