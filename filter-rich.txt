@@ -1,4 +1,3 @@
-! Elon Related
 ||x.com^
 ||twitter.com^
 ||t.co^
@@ -21,8 +20,6 @@
 ||teslaenergy.services^
 ||spacex.com^
 ||spacexmail.usgovtrafficmanager.net^
-
-! Meta Trash
 ||whatsapp.com^
 ||whatsapp.net^
 ||wa.me^
@@ -42,8 +39,6 @@
 ||oculus.com^
 ||oculuscdn.com^
 ||oculusrift.com^
-
-! Alternative Dodgy Platforms
 ||telegram.org^
 ||t.me^
 ||telegram.me^
@@ -59,36 +54,26 @@
 ||dlive.io^
 ||dlive.org^
 ||dlive.com^
-
-! Image/Video Platforms
 ||bitchute.com^
 ||rumble.com^
 ||odysee.com^
 ||cyberdrop.cc^
 ||cyberdrop.to^
-
-! Chan Sites
 ||4chan.org^
 ||8kun.top^
 ||8ch.net^
 ||endchan.org^
 ||lainchan.org^
 ||2ch.hk^
-
-! LinkedIn Related
 ||linkedin.com^
 ||licdn.com^
 ||linkedin.cn^
 ||licdn.cn^
 ||oribi.io^
-
-! Information/Leak Sites
 ||wikileaks.org^
 ||wikileaks.com^
 ||ddosecrets.com^
 ||theunredacted.com^
-
-! Alternative News Sites
 ||infowars.com^
 ||banned.video^
 ||thegatewaypundit.com^
@@ -101,8 +86,6 @@
 ||pravda.ru^
 ||rt.com^
 ||sputniknews.com^
-
-! Extremist/Controversial Sites
 ||jihadology.net^
 ||ansar1.info^
 ||jihadwatch.org^
@@ -114,14 +97,10 @@
 ||stormfront.org^
 ||dailystormer.su^
 ||kiwifarms.net^
-
-! Chat/Communication Platforms
 ||rocket.chat^
 ||element.io^
 ||matrix.org^
 ||justpaste.it^
-
-! Redirect Services 
 ||is.gd^
 ||tinyurl.com^
 ||bit.ly^
@@ -132,8 +111,6 @@
 ||lin.ee^
 ||shorturl.at^
 ||buff.ly^
-
-! Adult TLD's
 ||*.porn^
 ||*.sex^
 ||*.sexy^
@@ -143,15 +120,11 @@
 ||*.tube^
 ||*.cam^
 ||*.hot^
-
-! Dodgy TLD's
 ||*.ml^
 ||*.tk^
 ||*.ga^
 ||*.cf^
 ||*.gq^
-
-! Miscellaneous
 ||edramatica.com^
 ||voat.co^
 ||voat.xyz^
