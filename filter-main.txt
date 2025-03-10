@@ -133,10 +133,9 @@
 ||honey.app^
 ||uber.com^
 ||uberinternal.com^
-||ubereats.com^
 ||oojoovae.org^
 ||geixahba.com^
 ||delivereasy.co.nz^
 ||foodrunners.co.nz
 ||foodrunners.nz
-||ubereats.*
+||ubereats.com^
