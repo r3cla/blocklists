@@ -137,3 +137,6 @@
 ||oojoovae.org^
 ||geixahba.com^
 ||delivereasy.co.nz^
+||foodrunners.co.nz
+||foodrunners.nz
+||ubereats.*
